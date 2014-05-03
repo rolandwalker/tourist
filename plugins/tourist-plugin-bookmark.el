@@ -118,13 +118,6 @@
            pos
            (tourist-plugin-bookmark--feedback-msg pos local-mark-alist)))))))
 
-;; @@@ todo removeme
-;; (flet ((morger (&rest args)
-;;                (apply 'message args))
-;;        (beeple (&rest args)
-;;                (apply 'morger args)))
-;;   (beeple "hello"))
-
 ;;;###autoload
 (defun tourist-plugin-bookmark-previous ()
   "Find the previous bookmark.el landmark for `tourist-mode'."
