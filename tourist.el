@@ -4,7 +4,7 @@
 ;;
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/tourist
-;; URL: http://raw.github.com/rolandwalker/tourist/master/tourist.el
+;; URL: http://raw.githubusercontent.com/rolandwalker/tourist/master/tourist.el
 ;; Version: 0.1.0
 ;; Last-Updated: 3 May 2014
 ;; EmacsWiki: Tourist

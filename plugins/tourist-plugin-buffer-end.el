@@ -4,7 +4,7 @@
 ;;
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/tourist
-;; URL: http://raw.github.com/rolandwalker/tourist/master/plugins/tourist-plugin-buffer-end.el
+;; URL: http://raw.githubusercontent.com/rolandwalker/tourist/master/plugins/tourist-plugin-buffer-end.el
 ;; Version: 0.1.0
 ;;
 ;; Simplified BSD License
