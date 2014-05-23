@@ -148,7 +148,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet eshell comint ielm repl nrepl Eshell nREPL
+;; LocalWords: imenu eshell comint ielm repl nrepl Eshell nREPL
 ;;
 
 ;;; tourist-plugin-interactive-prompt.el ends here

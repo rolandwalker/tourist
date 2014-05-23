@@ -98,7 +98,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet saveplace Saveplace
+;; LocalWords: imenu saveplace Saveplace
 ;;
 
 ;;; tourist-plugin-saveplace.el ends here

@@ -113,7 +113,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet flymake Flymake
+;; LocalWords: imenu flymake Flymake
 ;;
 
 ;;; tourist-plugin-flymake.el ends here

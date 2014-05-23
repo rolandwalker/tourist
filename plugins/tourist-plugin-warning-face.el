@@ -148,7 +148,7 @@ The position at POS *must* have `font-lock-warning-face'."
 ;; coding: utf-8
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
-;; LocalWords: imenu flet callf
+;; LocalWords: imenu callf
 ;;
 
 ;;; tourist-plugin-warning-face.el ends here

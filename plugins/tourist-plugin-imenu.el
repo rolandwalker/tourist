@@ -197,7 +197,7 @@ The return value is an alist of cells in the form
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet Imenu submenus alist
+;; LocalWords: imenu Imenu submenus alist
 ;;
 
 ;;; tourist-plugin-imenu.el ends here

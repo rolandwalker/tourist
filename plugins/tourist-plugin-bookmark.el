@@ -134,7 +134,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet
+;; LocalWords: imenu
 ;;
 
 ;;; tourist-plugin-bookmark.el ends here

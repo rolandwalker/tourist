@@ -122,7 +122,7 @@ The position at POS *must* have the 'linkd char-property."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet linkd callf Linkd
+;; LocalWords: imenu linkd callf Linkd
 ;;
 
 ;;; tourist-plugin-linkd.el ends here

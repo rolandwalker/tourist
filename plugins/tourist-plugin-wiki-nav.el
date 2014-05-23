@@ -136,7 +136,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet
+;; LocalWords: imenu
 ;;
 
 ;;; tourist-plugin-wiki-nav.el ends here

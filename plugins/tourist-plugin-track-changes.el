@@ -155,7 +155,7 @@ The position at POS *must* have the 'hilit-chg property."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet hilit callf
+;; LocalWords: imenu hilit callf
 ;;
 
 ;;; tourist-plugin-track-changes.el ends here

@@ -120,7 +120,7 @@ This limit applies per-buffer."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet subseq
+;; LocalWords: imenu subseq
 ;;
 
 ;;; tourist-plugin-global-mark-ring.el ends here

@@ -110,7 +110,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet subseq
+;; LocalWords: imenu subseq
 ;;
 
 ;;; tourist-plugin-mark-ring.el ends here

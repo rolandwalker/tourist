@@ -114,7 +114,7 @@ buffer containing multiple man pages."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet manpage
+;; LocalWords: imenu manpage
 ;;
 
 ;;; tourist-plugin-manpage.el ends here

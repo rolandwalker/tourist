@@ -147,7 +147,7 @@ POS is optional, and defaults to the current point."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet callf
+;; LocalWords: imenu callf
 ;;
 
 ;;; tourist-plugin-flyspell.el ends here

@@ -108,7 +108,7 @@
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet fixmee Fixme
+;; LocalWords: imenu fixmee Fixme
 ;;
 
 ;;; tourist-plugin-fixmee.el ends here

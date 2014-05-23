@@ -249,7 +249,7 @@ not contain whitespace."
 ;; byte-compile-warnings: (not cl-functions redefine)
 ;; End:
 ;;
-;; LocalWords: imenu flet callf ppss multi Multi
+;; LocalWords: imenu callf ppss multi Multi
 ;;
 
 ;;; tourist-plugin-comment-section.el ends here
