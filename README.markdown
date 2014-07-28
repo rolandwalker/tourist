@@ -1,27 +1,23 @@
 [![Build Status](https://secure.travis-ci.org/rolandwalker/tourist.png)](http://travis-ci.org/rolandwalker/tourist)
 
-Overview
-========
+# Overview
 
 Semantic scrolling.  Navigate quickly to major landmarks in Emacs.
 
 This is a pre-alpha, not expected to work in current form.
 
-Quickstart
-----------
+## Quickstart
 
 ```elisp
 (require 'tourist)
 (global-tourist-mode 1)
 ```
 
-Explanation
------------
+## Explanation
 
 This is a pre-alpha, not expected to work in current form.
 
-Compatibility and Requirements
-------------------------------
+## Compatibility and Requirements
 
 	GNU Emacs version 24.4-devel     : yes, at the time of writing
 	GNU Emacs version 24.3           : yes
