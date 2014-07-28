@@ -10,7 +10,7 @@ This is a pre-alpha, not expected to work in current form.
 Quickstart
 ----------
 
-```lisp
+```elisp
 (require 'tourist)
 (global-tourist-mode 1)
 ```
