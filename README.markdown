@@ -24,8 +24,4 @@ This is a pre-alpha, not expected to work in current form.
 	GNU Emacs version 23.3           : yes
 	GNU Emacs version 22.3 and lower : no
 
-Uses if present:  
-[smartrep.el](http://github.com/myuhe/smartrep.el),  
-[nav-flash.el](http://github.com/rolandwalker/nav-flash),  
-[back-button.el](http://github.com/rolandwalker/back-button),  
-[express.el](http://github.com/rolandwalker/express)
+Uses if present: [back-button.el](http://github.com/rolandwalker/back-button), [express.el](http://github.com/rolandwalker/express), [nav-flash.el](http://github.com/rolandwalker/nav-flash), [smartrep.el](http://github.com/myuhe/smartrep.el)
