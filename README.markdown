@@ -6,6 +6,10 @@ Semantic scrolling.  Navigate quickly to major landmarks in Emacs.
 
 This is a pre-alpha, not expected to work in current form.
 
+ * [Quickstart](#quickstart)
+ * [Explanation](#explanation)
+ * [Compatibility and Requirements](#compatibility-and-requirements)
+
 ## Quickstart
 
 ```elisp
