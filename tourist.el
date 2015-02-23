@@ -1,6 +1,6 @@
 ;;; tourist.el --- Navigate quickly to major landmarks
 ;;
-;; Copyright (c) 2014 Roland Walker
+;; Copyright (c) 2014-2015 Roland Walker
 ;;
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/tourist
@@ -211,9 +211,6 @@
 ;;; License
 ;;
 ;; Simplified BSD License
-;;
-;; Copyright (c) 2014, Roland Walker
-;; All rights reserved.
 ;;
 ;; Redistribution and use in source and binary forms, with or
 ;; without modification, are permitted provided that the following

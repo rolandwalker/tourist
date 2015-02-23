@@ -1,6 +1,6 @@
 ;;; tourist-plugin-mark-ring.el --- Mark-ring plugin for tourist-mode
 ;;
-;; Copyright (c) 2014 Roland Walker
+;; Copyright (c) 2014-2015 Roland Walker
 ;;
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/tourist
