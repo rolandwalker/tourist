@@ -1104,7 +1104,6 @@ landmarks from scratch.  This parameter is for internal use only."
                  (tourist-goto-next-landmark (signum arg) method nil landmarks))
              (message "no more landmarks"))))
         (t
-         (express "normal")
          (message "no more landmarks"))))))
 
 ;;;###autoload
