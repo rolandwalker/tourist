@@ -809,7 +809,7 @@ current point."
       (if method
           (setq methods (list method))
         ;; else
-        (setq methods (or tourist-default-methods (mapcar 'car tourist-method-definitions)))
+        (setq methods (copy-sequence (or tourist-default-methods (mapcar 'car tourist-method-definitions))))
         (callf2 remove-if #'(lambda (x)
                               (memq x tourist-disabled-methods)) methods)
         (callf tourist-method-priority-sorter methods))
@@ -993,7 +993,7 @@ With negative prefix ARG, list disabled methods."
     (cond
       ((and arg
             (> (prefix-numeric-value arg) 0))
-       (setq methods (or tourist-default-methods all-methods))
+       (setq methods (copy-sequence (or tourist-default-methods all-methods)))
        (callf2 remove-if #'(lambda (m)
                              (memq m tourist-disabled-methods)) methods)
        (setq description "Default"))
