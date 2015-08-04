@@ -1129,6 +1129,7 @@ Optional WRAP is as documented at `tourist-goto-next-landmark'."
   "Navigate to the ARGth previous landmark of the same type.
 
 Optional WRAP is as documented at `tourist-goto-next-landmark'."
+  (interactive "p")
   (callf or arg 1)
   (when (= arg 0)
     (setq arg 1))
@@ -1145,6 +1146,7 @@ Optional WRAP is as documented at `tourist-goto-next-landmark'."
   "Navigate to the ARGth next landmark of the same type.
 
 Optional WRAP is as documented at `tourist-goto-next-landmark'."
+  (interactive "p")
   (callf or arg 1)
   (when (= arg 0)
     (setq arg 1))
