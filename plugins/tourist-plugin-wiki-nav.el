@@ -36,6 +36,10 @@
 ;;
 ;; Bugs
 ;;
+;;     This has terrible performance problems due to the forcing of
+;;     complete buffer fontification every time wiki-nav-find-any-link
+;;     is called.  font-lock-fontify-region might be used instead.
+;;
 ;; TODO
 ;;
 ;;; License
